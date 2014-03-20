@@ -1,4 +1,4 @@
-Stack Overflow search extension for PopClip
-===========================================
+Stack Overflow search for PopClip
+=================================
 
-Highlight some text, and away you go. Stack Overflow icon sourced from here http://stackexchange.com/about/logos.
+Stack Overflow icon sourced from here http://stackexchange.com/about/logos.
